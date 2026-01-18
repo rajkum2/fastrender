@@ -24,3 +24,9 @@ shopify_page_loop.log
 /specs/tc39-ecma262/*
 !/specs/tc39-ecma262/table-binary-unicode-properties.html
 !/specs/tc39-ecma262/table-binary-unicode-properties-of-strings.html
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
